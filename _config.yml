@@ -12,7 +12,7 @@ github_repo: "https://github.com/fengxuemi/fengxuemi.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: img/DA1-by.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/DA1.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
